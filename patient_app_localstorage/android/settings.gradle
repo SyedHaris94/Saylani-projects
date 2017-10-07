@@ -1,0 +1,3 @@
+rootProject.name = 'patient_app_localstorage'
+
+include ':app'
